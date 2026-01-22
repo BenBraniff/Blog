@@ -1,7 +1,18 @@
----
-layout: post
-title: "Welcome to my Blog"
-date: 2026-01-21
+___
+
+# First Blog Post
+
+Date: 2026-1-21
+Author: Ben Braniff
+Description: Learning what a good blog format lookes like
+
 ---
 
-This is my first post using **Markdown**!
+This is my first blog post using **Markdown**!
+
+I'm very excited, but I'm not sure where to take this. I want to structure the first post well so the other ones can follow suit. It should be mobile friendly and easy on the eyes. It should be easy for me to get my environment set up and start typing. Having too much over head will cause me to not want to create blogs (not that I have any ideas for any). I think over complicating the set up defeats the purpose of using markdown. 
+
+Here is a photo of my blogging evironment...
+
+![Screenshot](assets/Screenshot 2026-01-21 at 20.48.11.png "My Blogging Environment")
+
